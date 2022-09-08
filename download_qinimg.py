@@ -1,5 +1,5 @@
 """
-下载meitu131网站中的图片
+下载qinimg网站中的图片
 """
 import random
 import time
